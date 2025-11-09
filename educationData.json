@@ -1,0 +1,26 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "institution": "Erode Sengunthar Engineering College",
+      "period": "2018 — 2022",
+      "degree": "Bachelor of Electrical and Electronics Engineering",
+      "details": "CGPA: 8.6"
+    },
+    {
+      "id": 2,
+      "institution": "Sri Pariyur Amman Nursery And Higher Secondary School",
+      "period": "2016 — 2018",
+      "degree": "Computer Science",
+      "details": "Percentage: 90%"
+    },
+    {
+      "id": 3,
+      "institution": "Government high school",
+      "period": "2015 — 2016",
+      "degree": "SSLC",
+      "details": "Percentage: 85%"
+    }
+  ]
+}
+

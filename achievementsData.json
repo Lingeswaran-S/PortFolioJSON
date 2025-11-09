@@ -1,0 +1,68 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Implication of Electric Energy Generation Using Domestic Ceiling Fan",
+      "type": "Project Presentation",
+      "institution": "Kongu Engineering College, Erode",
+      "year": "2020",
+      "award": "First Prize",
+      "description": "Presented a project on the topic"
+    },
+    {
+      "id": 2,
+      "title": "Solar Weeding Machine",
+      "type": "Project Presentation",
+      "institution": "Angel Institute of Technology, Tiruppur",
+      "year": "2020",
+      "award": "First Prize",
+      "description": "Granted a project on the topic"
+    },
+    {
+      "id": 3,
+      "title": "Energy Generation by Using Ceiling Fan",
+      "type": "Project Presentation",
+      "institution": "KPR Institute of Technology, Coimbatore",
+      "year": "2020",
+      "award": "First Prize",
+      "description": "Secured First prize in Project Presentation on the topic"
+    },
+    {
+      "id": 4,
+      "title": "OLED",
+      "type": "Paper Presentation",
+      "institution": "Angel Institute of Technology, Tiruppur",
+      "year": "2020",
+      "award": "First Prize",
+      "description": "Got First prize in Paper Presentation on the topic"
+    },
+    {
+      "id": 5,
+      "title": "Super Capacitor",
+      "type": "Paper Presentation",
+      "institution": "KPR Institute of Technology, Coimbatore",
+      "year": "2020",
+      "award": "Second Prize",
+      "description": "Won Second prize in Paper Presentation on the topic"
+    },
+    {
+      "id": 6,
+      "title": "Power source for low voltage Electronic Devices",
+      "type": "Project Presentation",
+      "institution": "Bannari Amman Institute of Technology, Tiruppur",
+      "year": "2020",
+      "award": "Second Prize",
+      "description": "Secured Second prize in Project Presentation on the topic"
+    },
+    {
+      "id": 7,
+      "title": "INSPIRE AWARD",
+      "type": "National Award",
+      "institution": "Tamilnadu Science and Technology Center, Chennai",
+      "year": "2012-2013",
+      "award": "Received",
+      "description": "Received INSPIRE AWARD"
+    }
+  ]
+}
+

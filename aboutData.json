@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "name": "Lingeswaran S",
+    "position": "Position @",
+    "company": "Thoughtworks",
+    "companyLink": "https://www.thoughtworks.com/",
+    "profileImage": "/images/blurmyimage.jpg",
+    "quote": {
+      "part1": "Non-IT by degree",
+      "separator": " • ",
+      "part2": "IT by destiny"
+    }
+  },
+  "aboutText": [
+    {
+      "id": 1,
+      "text": "I'm a passionate <strong style=\"color: var(--orange-yellow-crayola)\">Full Stack Developer</strong> from Sathyamangalam, India, currently working at <strong style=\"color: var(--orange-yellow-crayola)\">Thoughtworks</strong>. I love transforming complex challenges into elegant, user-friendly solutions."
+    },
+    {
+      "id": 2,
+      "text": "With expertise in modern web technologies, I specialize in building scalable applications that deliver exceptional user experiences. My approach combines clean code, innovative thinking, and a keen eye for detail to create solutions that make a difference."
+    }
+  ],
+  "socialLinks": {
+    "gmail": {
+      "link": "mailto:linges0103@gmail.com",
+      "icon": "/images/gmail.svg",
+      "alt": "Gmail"
+    },
+    "linkedin": {
+      "link": "",
+      "icon": "/images/linkedin .svg",
+      "alt": "LinkedIn",
+      "badgeContent": 2
+    },
+    "instagram": {
+      "link": "",
+      "icon": "/images/instagram.svg",
+      "alt": "Instagram",
+      "badgeContent": 4
+    }
+  },
+  "specialAwards": [
+    {
+      "id": 1,
+      "badge": "🥇",
+      "name": "First Rank Holder",
+      "details": "Department of Electrical & Electronics Engineering",
+      "image": "/images/esecfirstrank.jpg",
+      "description": "I am thrilled to announce my graduation with top honors from the esteemed Department of Electrical and Electronics! 🌟 Being recognized as the 🥇FirstRankHolder is truly an incredible honor. This remarkable journey has been made possible by the unwavering support and guidance of my exceptional college professors. Join me in celebrating this momentous achievement, marking the culmination of hard work, dedication, and passion for learning. Here's to embracing new beginnings and striving for excellence in all endeavors!"
+    },
+    {
+      "id": 2,
+      "badge": "⭐",
+      "name": "ISTE Best Student Award 2021",
+      "details": "20th Annual Student Convention, RAMCO Institute of Technology",
+      "image": "/images/ISTE.jpeg",
+      "description": "Join me in celebrating a proud moment as I was honored with the prestigious \"𝙸𝚗𝚍𝚒𝚊𝚗 𝚂𝚘𝚌𝚒𝚎𝚝𝚢 𝚏𝚘𝚛 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗\" (𝐈𝐒𝐓𝐄) - the Best Student Award 2021. This esteemed recognition was bestowed upon me during the 20th Annual Student Convention at the esteemed RAMCO INSTITUTE OF TECHNOLOGY in Rajapalayam. This accolade stands as a testament to my dedication to academic excellence, prowess in co-curricular activities, and commendable performance in various club engagements. It was indeed a moment of great privilege to have my parents accompany me to this prestigious award ceremony, adding to the significance of the occasion. Join me as I cherish this milestone in my educational journey, embodying the spirit of excellence and commitment to learning."
+    }
+  ]
+}
+

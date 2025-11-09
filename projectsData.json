@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "What is ZenStick ?",
+      "description": "Unleash your creativity with feature-packed note-taking brilliance.",
+      "period": "11 DEC 2022",
+      "link": "https://zenstick.onrender.com/",
+      "sourceLink": "https://zenstick.onrender.com/",
+      "source": "/images/zenstick.png",
+      "overline": "Recent Project from"
+    },
+    {
+      "id": 2,
+      "title": "JOB-RIDE",
+      "description": "You can look through millions of jobs online to identify your next professional move.",
+      "period": "",
+      "link": "https://jobride.pages.dev/",
+      "sourceLink": "",
+      "source": "/images/jobride.png",
+      "overline": "Recent project"
+    }
+  ]
+}
+

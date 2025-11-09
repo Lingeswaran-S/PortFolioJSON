@@ -1,0 +1,29 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "title": "Web development",
+      "icon": "/images/web2.png",
+      "description": "High-quality development of sites at the professional level."
+    },
+    {
+      "id": 2,
+      "title": "Playing Soccer",
+      "icon": "/images/football1.png",
+      "description": "Will play football in my free time."
+    },
+    {
+      "id": 3,
+      "title": "Innovative thing",
+      "icon": "/images/inovative1.png",
+      "description": "I make high-quality electronic projects at a professional level."
+    },
+    {
+      "id": 4,
+      "title": "Videogames to unwind",
+      "icon": "/images/videogame.png",
+      "description": "high-speed thrills and compete against other drivers in a variety of races and challenges"
+    }
+  ]
+}
+

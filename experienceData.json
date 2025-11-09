@@ -1,0 +1,42 @@
+{
+  "experienceClock": {
+    "startDate": "2022-06-30",
+    "companies": [
+      {
+        "id": 1,
+        "name": "Thoughtworks",
+        "role": "Consultant Developer",
+        "period": "Sep 2025 - Present",
+        "icon": "/images/thoughtworks.jpg",
+        "color": "#ff6b6b",
+        "description": "Building innovative solutions"
+      },
+      {
+        "id": 2,
+        "name": "OneBill Software",
+        "role": "Software Engineer",
+        "period": "June 2022 - Sep 2025",
+        "icon": "/images/onebill.png",
+        "color": "#4ecdc4",
+        "description": "Developed scalable applications"
+      }
+    ]
+  },
+  "resumeExperience": [
+    {
+      "id": 1,
+      "title": "Full Stack Developer",
+      "company": "Thoughtworks",
+      "period": "Sep 15, 2025 → Present",
+      "description": "Building scalable web applications and contributing to innovative software solutions using modern technologies and best practices. Working with cross-functional teams to deliver high-quality products."
+    },
+    {
+      "id": 2,
+      "title": "Full Stack Developer",
+      "company": "OneBill Software",
+      "period": "June 30, 2022 → Sep 10, 2025",
+      "description": "Developed and maintained software products using Java, JavaScript, GWT, React JS, and MySQL. Collaborated on feature development and system improvements."
+    }
+  ]
+}
+
