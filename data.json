@@ -1,0 +1,46 @@
+{
+    "technicalSkills": [
+      {
+        "id": 1,
+        "title": "Java 8",
+        "imagePath": "/images/java96.png",
+        "category": "Backend",
+        "description": "Proficient in Java 8 features including lambdas, streams, and functional programming. Experience in building enterprise applications and RESTful APIs."
+      },
+      {
+        "id": 2,
+        "title": "Spring Core",
+        "imagePath": "/images/spring.png",
+        "category": "Backend",
+        "description": "Expertise in Spring Framework for dependency injection, aspect-oriented programming, and building scalable enterprise applications."
+      },
+      {
+        "id": 3,
+        "title": "React JS",
+        "imagePath": "/images/reactjs.png",
+        "category": "Frontend",
+        "description": "Strong experience in building modern, responsive user interfaces using React hooks, context API, and component-based architecture."
+      },
+      {
+        "id": 4,
+        "title": "MySQL",
+        "imagePath": "/images/mysql.png",
+        "category": "Database"
+      },
+      {
+        "id": 5,
+        "title": "JavaScript",
+        "imagePath": "/images/javascript.png",
+        "category": "Frontend"
+      },
+      {
+        "id": 6,
+        "title": "AWS (Basics)",
+        "imagePath": "/images/aws.png",
+        "category": "Cloud",
+        "description": "Basic knowledge of AWS services including EC2, S3, and cloud deployment strategies."
+      }
+    ]
+  }
+  
+  
